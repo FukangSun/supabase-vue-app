@@ -1,3 +1,5 @@
+import { supabase } from '../supabaseClient'
+
 <template>
   <div class="min-h-screen flex flex-col items-center justify-center bg-white">
     <div class="w-full max-w-md p-8 shadow-md rounded-lg bg-gray-50">
